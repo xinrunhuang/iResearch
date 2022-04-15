@@ -22,7 +22,9 @@ Model training files are located in the `iResearch/Training/folder`. All trainin
 
 * **Text generation training folder**: training model for text generation module.
 ### Dialogflow
-Upload the iResearch dialogflow `intent.zip` to the dialogflow website.
+Create a Dialogflow Agent through [link](https://dialogflow.cloud.google.com/)
+
+Import the `iResearch_dialogflow_intent.zip` to created dialogflow agent followed by operations in figure below![dialogflow](dialogflow.png).
 ### Telegram
 
 ### Mrt
