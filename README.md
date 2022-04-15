@@ -15,8 +15,7 @@ Accept classification training dataset:: [link](https://drive.google.com/file/d/
 ## Depolyment
 
 ### Models
-Model training files are located in the '
-> iResearch/Training/folder. All training files are written in jupyter notebook format, follow the instructions and comments to train customs
+Model training files are located in the `iResearch/Training/folder`. All training files are written in jupyter notebook format, follow the instructions and comments to train customs
 model.
 
 ### Dialogflow
