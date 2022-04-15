@@ -22,9 +22,9 @@ Model training files are located in the `iResearch/Training/folder`. All trainin
 
 * **Text generation training folder**: training model for text generation module.
 ### Dialogflow
-Create a Dialogflow Agent through [link](https://dialogflow.cloud.google.com/)
+* Create a Dialogflow Agent through [link](https://dialogflow.cloud.google.com/)
 
-Import the `iResearch_dialogflow_intent.zip` to created dialogflow agent followed by operations in figure below![dialogflow](dialogflow.png).
+* Import the `iResearch_dialogflow_intent.zip` to created dialogflow agent followed by operations in figure below![dialogflow](dialogflow.png).
 ### Telegram
 * 1.Create your own telegram bot and change the token in iResearch deployment.ipynb.
 * 2.Follow the instructions in iResearch deployment.ipynb.
