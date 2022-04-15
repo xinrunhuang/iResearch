@@ -26,8 +26,10 @@ Create a Dialogflow Agent through [link](https://dialogflow.cloud.google.com/)
 
 Import the `iResearch_dialogflow_intent.zip` to created dialogflow agent followed by operations in figure below![dialogflow](dialogflow.png).
 ### Telegram
-
+* 1.Create your own telegram bot and change the token in iResearch deployment.ipynb.
+* 2.Follow the instructions in iResearch deployment.ipynb.
+* 3.Open the PDF2json server first and then open the telegram server
 ### Mrt
-
+Open the Frontend-mrt server in `Helper_Function/Helper_Function.ipynb`
 ### Textgrapher
-
+Open the Frontend-textgrapher server in `Helper_Function/Helper_Function.ipynb`
